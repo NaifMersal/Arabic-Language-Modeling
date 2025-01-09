@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!utils.py
+!word2vec.ipynb
+!next-word-prediction.ipynb
