@@ -119,10 +119,10 @@ If you use this code, please cite:
 ```
 @misc{arabic_language_modeling,
   author = {NaifMersal},
-  title = {Arabic Language Modeling Comparison},
-  year = {2024},
+  title = {Arabic Language Modeling},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/NaifMersal/Arabic-Language-Modeling-Comparison},
+  url = {https://github.com/NaifMersal/Arabic-Language-Modeling},
 }
 
 ```
