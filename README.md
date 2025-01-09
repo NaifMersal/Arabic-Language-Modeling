@@ -77,8 +77,6 @@ TRAIN_SPLIT = 0.9
 - Without these adjustments, training can result in NaN losses
 
 ### Implementation Challenges
-
-**Threading and Tokenization Issues**
    - Parallel file processing with encode_batch caused stability issues
    - Resolution: Set num_workers=0 and enable TOKENIZERS_PARALLELISM
    - Possible memory/thread contention with encode_batch method
